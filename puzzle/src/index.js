@@ -1,6 +1,5 @@
 import "@babel/polyfill";
 import "./index.html";
-import { mult, sum } from "./modules/calc";
 import "./styles.scss";
 import "./scss/_adaptive.scss";
 import mp from "./assets/audio.mp3";
